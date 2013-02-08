@@ -1,0 +1,8 @@
+
+Prospect
+Customer - Direct
+Customer - Channel
+Channel Partner / Reseller
+Installation Partner
+Technology Partner
+Other
